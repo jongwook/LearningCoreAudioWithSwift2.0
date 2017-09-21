@@ -207,6 +207,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = CH01_CAMetadata;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -214,6 +215,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = CH01_CAMetadata;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
